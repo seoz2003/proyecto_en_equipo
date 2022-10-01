@@ -1,5 +1,4 @@
 fn main {
     println!("Hola munkjgkhjghkgjhhjdo");
-    println!("Esto es un camkjhkjhhkfhjfghfgmghkgkgkhhffsgffjghdhggkhjgjfbio");
-    kjhjkhkjhkjhkjhjk
+    println!("Esto es un cam");
 }
